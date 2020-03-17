@@ -1,5 +1,7 @@
 # Awesome Work from Home
 
+##PULL REQUESTS STRONGLY DESIRED!
+
 Due to the #COVID--19 outbreak, a bunch of companies and workers are about to have their first experience working from home.
 
 Now is a great time for companies outside the IT sector to embrace this culture change, hopefully permanently. 
