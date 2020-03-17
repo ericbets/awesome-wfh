@@ -1,6 +1,6 @@
 # Awesome Work from Home
 
-## PULL REQUESTS STRONGLY DESIRED!
+## Looking for PR / turnkey app reccomendations. Biased towards tools that serve a non technical audience.
 
 Due to the #COVID--19 outbreak, a bunch of companies and workers are about to have their first experience working from home.
 
