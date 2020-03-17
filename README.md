@@ -2,7 +2,7 @@
 
 Due to the #COVID--19 outbreak, a bunch of companies and workers are about to have their first experience working from home.
 
-Now is a great time for companies outside the IT sector to embrace this culture change. 
+Now is a great time for companies outside the IT sector to embrace this culture change, hopefully permanently. 
 Because working from home is great:
 
 * It saves companies costs.
@@ -20,7 +20,7 @@ Try to create a dedicated space in your home just for work so that you can leave
 
 #### How Companies can be successful in WFH
 
-Work from Home has been a big success in the IT industry for almost 20 years. Why this industry and not others? Probably because software engineers love building tools that build better tools. We make software that tracks our progress towards our work, that allows us to learn from our mistakes, innovate and create newer more efficient processes with minimal overhead. But you don't need to be a software engineer to do that. Because there is a hell of alot of software out there that we made that you can use.
+Work from Home has been a big success in the IT industry for almost 20 years. Why this industry and not others? Probably because software engineers love building tools that build better tools. We make software that tracks our progress towards our work, that allows us to learn from our mistakes, innovate and create newer more efficient processes with minimal overhead. But you don't need to be a software engineer to do that. Because there is a hell of alot of software out there that we made that you can use for free.
 
 So to recap on how to be successful:
 
