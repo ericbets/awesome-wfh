@@ -2,15 +2,16 @@
 
 Due to the #COVID--19 outbreak, a bunch of companies and workers are about to have their first experience working from home.
 
-Now is a great time for companies outside the IT sector to find this out and embrace this change of culture. 
+Now is a great time for companies outside the IT sector to embrace this culture change. 
 Because working from home is great:
 
 * It saves companies costs.
 * It reduces liabilities. 
 * It's better for the environment. 
-* It gives people greater autonomy makes them happier. Turns out sitting in traffic for an two hours a day can be quite the drag! Who knew!
+* It gives people greater autonomy and makes them happier. 
 
-But the best kept secret? 
+
+It turns out sitting in traffic for two hours a day can be quite a drag. Who knew! But the best kept secret? 
 
 ### It makes people a hell of a lot more productive. 
 
