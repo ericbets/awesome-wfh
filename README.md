@@ -39,6 +39,11 @@ Doing something specialized? You might want to look up one of the tens of thousa
 |[Jitsi Meet](https://jitsi.org/jitsi-meet)|✓|✓|✓|✓|Nonce|None||
 ||
 
+## Graphic Design
+|Software Name|API|Android|Web|iOS|Auth|Storage|Misc Comments|
+|---|---|---|---|---|---|---|---|
+|[Draw.io](https://draw.io)|||✓||None|None||
+||
 
 Note for contributors:
 For the moment this repo is concerned with turnkey solutions that will fit under a SSO / federated login system.
