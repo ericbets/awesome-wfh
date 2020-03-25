@@ -45,6 +45,12 @@ Doing something specialized? You might want to look up one of the tens of thousa
 |[Draw.io](https://draw.io)|||✓||None|None||
 ||
 
+## Web Forms (like Google Forms)
+|Software Name|API|Android|Web|iOS|Auth|Storage|Misc Comments|
+|---|---|---|---|---|---|---|---|
+|[Strapi](https://strapi.io)|||✓||OAuth|PostgreSQL,MongoDB,SQLite,MySQL,MariaDB||
+||
+
 Note for contributors:
 For the moment this repo is concerned with turnkey solutions that will fit under a SSO / federated login system.
 So the auth field should be PAM, OpenID Connect, LDAP or Nonce.
